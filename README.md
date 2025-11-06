@@ -1,88 +1,62 @@
-# Hello there I am Deshan Chandima👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi%20I'm%20Deshan%20Chandima&textBg=false&section=header&reversal=true&fontColor=61DAFB&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlign=50&animation=twinkling&fontAlignY=45&descSize=27&descAlignY=85&fontSize=50" />
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+I'm Deshan Chandima, a 3rd-year Computer Science and software engineer student and Fullstavk Developer passionate about AI and Machine Learning. I enjoy building interactive web projects and exploring intelligent solutions.
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## My tech stack
+💡 *“Crafting logic and elegance in every line of code.”*
 
-<p align="left"> 
+---
 
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
+### 📬 Connect with Me
+
+[![Mail Badge](https://img.shields.io/badge/-d.chandima163@gmai.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
+[![Instagram Badge](https://img.shields.io/badge/-deshan__c__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/deshan_c_?igsh=MWl3M2NvbjJna2x1bg==)
+[![LinkedIn Badge](https://img.shields.io/badge/-Deshan%20Chandima-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deshan-chandima-0740662bb/)
+[![Facebook Badge](https://img.shields.io/badge/-Deshan%20Chand-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/share/16oFtgMUNZ/)
+[![Discord Badge](https://img.shields.io/badge/-Sh4an-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/d_sh4an)
+
+
+---
+
+### 🧠 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php,python&theme=light" />
   </a>
 </p>
 
-## Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/deshan-chandima-0740662bb/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/deshan_c_?igsh=MWFmcW5zaGczNGx0MQ%3D%3D&utm_source=qr" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="Discord" height="30" width="40" /></a>
+---
+
+### ⚙️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+  </a>
 </p>
 
------
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshan-Chandima&theme=react&show_icons=true&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Deshan-Chandima&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
+
+---
+
+### 🧩 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
+
+
+---
+
+
+
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <i>“Code is where creativity meets logic.”</i> ✨
 </p>
