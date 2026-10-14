@@ -14,12 +14,12 @@
 <br/>
 
 <p align="center">
-  I'm <b>Deshan Chandima</b>, a 3rd-year Computer Science and Software Engineering student and Fullstack Developer passionate about AI and Machine Learning.<br/>
+  I'm <b>Deshan Chandima</b>, a 3rd-year Software Engineering student and Fullstack Developer passionate about AI and Machine Learning.<br/>
   I enjoy building interactive web projects and exploring intelligent solutions.
 </p>
 
 <p align="center">
-  💡 <i>“Crafting logic and elegance in every line of code.”</i>
+   <i>“Crafting logic and elegance in every line of code.”</i>
 </p>
 
 ---
