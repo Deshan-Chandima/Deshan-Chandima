@@ -5,7 +5,6 @@ I enjoy building interactive web projects and exploring intelligent solutions.
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
- 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -18,23 +17,33 @@ I enjoy building interactive web projects and exploring intelligent solutions.
 [![Facebook Badge](https://img.shields.io/badge/-Deshan%20Chand-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/share/16oFtgMUNZ/)
 [![Discord Badge](https://img.shields.io/badge/-Sh4an-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/d_sh4an)
 
+### 👨🏻‍💻 Quick Facts
+
+- 🎓 3rd-year Software Engineering undergraduate
+- 🌱 Currently exploring **AI, Machine Learning, and 3D web graphics**
+- 🤝 Open to collaborating on innovative full-stack web projects
+- 🎮 When I'm not coding, you can find me playing video games
+
+<br clear="both">
+
 ---
 
-### 🧠 Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php,python&theme=light" />
-  </a>
-</p>
+## 💻 Tech Stack & Tools
 
----
+<div align="center">
 
-### ⚙️ Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
-  </a>
-</p>
+  **Languages**<br/>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp,php,c" alt="Languages" height="45" />
+  <br/><br/>
+
+  **Frameworks & Databases**<br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,mongodb,postgres,firebase,spring,tailwind,redis" alt="Frameworks & Databases" height="45" />
+  <br/><br/>
+
+  **Tools & Platforms**<br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,idea,vscode,linux,azure,firebase,supabase,vercel,gcp,cloudflare,netlify" alt="Tools" height="45" />
+
+</div>
 
 ---
 
@@ -43,6 +52,7 @@ I enjoy building interactive web projects and exploring intelligent solutions.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshan-Chandima&theme=react&show_icons=true&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Deshan-Chandima&theme=react&hide_border=false) 
+
 ---
 
 ### 🧩 Most Used Languages
