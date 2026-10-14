@@ -8,8 +8,7 @@
 
 <br/>
 
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Deshan-Chandima&color=61DAFB&style=flat-square&label=Profile+Views" />
-
+<a href="https://github.com/Deshan-Chandima?tab=followers"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/Deshan-Chandima?label=Followers&style=flat-square&color=61DAFB&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
