@@ -5,7 +5,7 @@ I enjoy building interactive web projects and exploring intelligent solutions.
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
-
+ 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
