@@ -1,34 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi%20I'm%20Deshan%20Chandima&textBg=false&section=header&reversal=true&fontColor=61DAFB&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlign=50&animation=twinkling&fontAlignY=45&descSize=27&descAlignY=85&fontSize=50" />
+<div align="center">
 
-I'm Deshan Chandima, a 3rd-year Computer Science and Software Engineering student and Fullstack Developer passionate about AI and Machine Learning.  
-I enjoy building interactive web projects and exploring intelligent solutions.
+<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20I'm%20Deshan%20Chandima&fontColor=61DAFB&fontSize=48&fontAlignY=38&animation=twinkling&section=header" />
 
-💡 *“Crafting logic and elegance in every line of code.”*
+<a href="https://github.com/Deshan-Chandima">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Fullstack+Developer;Exploring+AI,+Machine+Learning+%26+3D+Web;Building+Paper+Cloud+LK" />
+</a>
+
+<br/>
+
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Deshan-Chandima&color=61DAFB&style=flat-square&label=Profile+Views" />
+
+</div>
+
+<br/>
+
+<p align="center">
+  I'm <b>Deshan Chandima</b>, a 3rd-year Computer Science and Software Engineering student and Fullstack Developer passionate about AI and Machine Learning.<br/>
+  I enjoy building interactive web projects and exploring intelligent solutions.
+</p>
+
+<p align="center">
+  💡 <i>“Crafting logic and elegance in every line of code.”</i>
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h3 align="center">📬 Connect with Me</h3>
 
-### 📬 Connect with Me
+<p align="center">
+  <a href="mailto:d.chandima163@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/-d.chandima163@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/deshan_c_/"><img alt="Instagram" src="https://img.shields.io/badge/-deshan__c__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/deshan-chandima-0740662bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Deshan%20Chandima-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/16oFtgMUNZ/"><img alt="Facebook" src="https://img.shields.io/badge/-Deshan%20Chand-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white" /></a>
+  <a href="https://discord.com/users/d_sh4an"><img alt="Discord" src="https://img.shields.io/badge/-Sh4an-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white" /></a>
+</p>
 
-[![Mail Badge](https://img.shields.io/badge/-d.chandima163@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:d.chandima163@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-deshan__c__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/deshan_c_/)
-[![LinkedIn Badge](https://img.shields.io/badge/-Deshan%20Chandima-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deshan-chandima-0740662bb/)
-[![Facebook Badge](https://img.shields.io/badge/-Deshan%20Chand-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/share/16oFtgMUNZ/)
-[![Discord Badge](https://img.shields.io/badge/-Sh4an-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/d_sh4an)
+---
 
-### 👨🏻‍💻 Quick Facts
+<h3 align="center">👨🏻‍💻 Quick Facts</h3>
+
+<table align="center">
+  <tr>
+    <td valign="middle">
 
 - 🎓 3rd-year Software Engineering undergraduate
 - 🌱 Currently exploring **AI, Machine Learning, and 3D web graphics**
+- 🚀 Building **Paper Cloud LK**, a free repository of Sri Lankan O/L and A/L past papers
 - 🤝 Open to collaborating on innovative full-stack web projects
 - 🎮 When I'm not coding, you can find me playing video games
 
-<br clear="both">
+</td>
+    <td valign="middle">
+      <img alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Tech Stack & Tools
+<h2 align="center">💻 Tech Stack & Tools</h2>
 
 <div align="center">
 
@@ -41,26 +71,35 @@ I enjoy building interactive web projects and exploring intelligent solutions.
   <br/><br/>
 
   **Tools & Platforms**<br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,idea,vscode,linux,azure,firebase,supabase,vercel,gcp,cloudflare,netlify" alt="Tools" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,idea,vscode,linux,azure,supabase,vercel,gcp,cloudflare,netlify" alt="Tools" height="45" />
 
 </div>
 
 ---
 
-### 📊 GitHub Statistics
+<h3 align="center">📊 GitHub Statistics</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshan-Chandima&theme=react&show_icons=true&hide_border=false)
+<p align="center">
+  <img height="195" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deshan-Chandima&theme=react&show_icons=true&hide_border=false&card_width=495" />
+  <img height="195" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshan-Chandima&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true&card_width=495" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Deshan-Chandima&theme=react&hide_border=false) 
+<p align="center">
+  <img width="495" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Deshan-Chandima&theme=react&hide_border=false" />
+</p>
 
 ---
 
-### 🧩 Most Used Languages
+<h3 align="center">📈 Contribution Activity</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshan-Chandima&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
+<p align="center">
+  <img width="100%" alt="Contribution Graph" src="https://ghchart.rshah.org/61DAFB/Deshan-Chandima" />
+</p>
 
 ---
 
 <p align="center">
   <i>“Code is where creativity meets logic.”</i> ✨
 </p>
+
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&fontColor=61DAFB" />
