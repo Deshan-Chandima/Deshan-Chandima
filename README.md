@@ -44,7 +44,6 @@
 
 - 🎓 3rd-year Software Engineering undergraduate
 - 🌱 Currently exploring **AI, Machine Learning, and 3D web graphics**
-- 🚀 Building **Paper Cloud LK**, a free repository of Sri Lankan O/L and A/L past papers
 - 🤝 Open to collaborating on innovative full-stack web projects
 - 🎮 When I'm not coding, you can find me playing video games
 
