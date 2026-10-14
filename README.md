@@ -5,7 +5,6 @@ I enjoy building interactive web projects and exploring intelligent solutions.
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
-<img src="https://komarev.com/ghpvc/?username=Deshan-Chandima&label=Profile%20views&color=0047AB&style=plastic" alt="profile views" height="25px" width="160px"/>
 
 ---
 
