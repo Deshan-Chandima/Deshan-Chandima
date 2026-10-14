@@ -3,7 +3,7 @@
 <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20I'm%20Deshan%20Chandima&fontColor=61DAFB&fontSize=48&fontAlignY=38&animation=twinkling&section=header" />
 
 <a href="https://github.com/Deshan-Chandima">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Fullstack+Developer;Exploring+AI,+Machine+Learning+%26+3D+Web;Building+Paper+Cloud+LK" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Fullstack+Developer;Exploring+AI,+Machine+Learning+%26+3D+Web" />
 </a>
 
 <br/>
