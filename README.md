@@ -30,7 +30,7 @@
   <a href="mailto:d.chandima163@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/-d.chandima163@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/deshan_c_/"><img alt="Instagram" src="https://img.shields.io/badge/-deshan__c__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/deshan-chandima-0740662bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Deshan%20Chandima-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/16oFtgMUNZ/"><img alt="Facebook" src="https://img.shields.io/badge/-Deshan%20Chand-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/16oFtgMUNZ/"><img alt="Facebook" src="https://img.shields.io/badge/-Deshan%20Chandima-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white" /></a>
   <a href="https://discord.com/users/d_sh4an"><img alt="Discord" src="https://img.shields.io/badge/-Sh4an-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white" /></a>
 </p>
 
